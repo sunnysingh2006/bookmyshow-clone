@@ -13,7 +13,7 @@ A frontend clone of the BookMyShow website built using HTML and CSS.
 - CSS
 
 ## 📸 Screenshots
-![homepage].png
+![homepage](homepage.png)
 
 ## 📚 What I Learned
 - Page layout using HTML
