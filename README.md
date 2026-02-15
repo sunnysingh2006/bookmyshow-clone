@@ -13,6 +13,9 @@ A frontend clone of the BookMyShow website built using HTML and CSS.
 - CSS
 
 ## 📸 Screenshots
+![Homepage](img1.avif)
+![Movies](img2.avif)
+![UI](img3.avif)
 
 ## 📚 What I Learned
 - Page layout using HTML
