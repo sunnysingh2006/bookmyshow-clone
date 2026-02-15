@@ -1,2 +1,29 @@
-# bookmyshow-clone
-BookMyShow frontend clone using HTML and CSS
+# 🎬 BookMyShow Website Clone
+
+A frontend clone of the BookMyShow website built using HTML and CSS.
+
+## 🚀 Features
+- Homepage layout
+- Movie cards UI
+- Basic responsive design
+- Clean frontend structure
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+
+## 📸 Screenshots
+
+## 📚 What I Learned
+- Page layout using HTML
+- Styling with CSS
+- Responsive design basics
+- Frontend project structure
+
+## 👨‍💻 Author
+Sunny Singh  
+BTech CSE Student | Frontend Developer | DSA in C++
+
+---
+
+Feel free to connect with me on LinkedIn!
